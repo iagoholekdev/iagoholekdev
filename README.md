@@ -1,5 +1,8 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Bitz Softwares<br><br>- 🌱 I’m currently learning ethical hacking<br><br>- 💬 Ask me about back end development<br><br>- 📫 How to reach me: holekiago21@gmail.com
+- 🔭 I’m currently working on Bitz Softwares
+- 🌱 I’m currently learning ethical hacking
+- 💬 Ask me about back end development
+- 📫 How to reach me: holekiago21@gmail.com
 
 
 ## 🌐 Socials:
