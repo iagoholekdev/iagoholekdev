@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Bitz Softwares
+- 🔭 I’m currently working on IDS Software e Assessoria
 - 🌱 I’m currently learning ethical hacking
 - 💬 Ask me about back end development
 
